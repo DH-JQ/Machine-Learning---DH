@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-dfd
-=======
-dfafdf
->>>>>>> dev
+# Machine Learning
